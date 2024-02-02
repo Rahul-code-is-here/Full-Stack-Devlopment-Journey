@@ -1,4 +1,5 @@
-// Hoisting 
+// Hoisting
+// imp for interview question
 "use strict";
 // Not declared but it gives output 
 console.log(sum(10,45)); // 55
